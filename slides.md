@@ -130,8 +130,8 @@ transition: fade-out
 
 # Visual Understanding of Chemical Reactions
 
-![Chemical Equations and Reactions](https://i0.wp.com/chemnotcheem.com/wp-content/uploads/2020/04/chemical-equation-for-the-formation-of-water-e1587787857941.png?resize=684%2C168&ssl=1)
-*[Chemical reactions and equations.](https://i0.wp.com/chemnotcheem.com/wp-content/uploads/2020/04/chemical-equation-for-the-formation-of-water-e1587787857941.png?resize=684%2C168&ssl=1)*
+![Chemical Equations and Reactions](https://i0.wp.com/chemnotcheem.com/wp-content/uploads/2020/04/chemical-equation-for-the-formation-of-water-e1587787857941.png)
+*[Chemical reactions and equations.](https://i0.wp.com/chemnotcheem.com/wp-content/uploads/2020/04/chemical-equation-for-the-formation-of-water-e1587787857941.png)*
 
 
 ```mermaid
