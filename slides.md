@@ -9,7 +9,7 @@ Welcome to our presentation on chemical reactions and equations. In this session
 
 ---
 layout: image-right
-image: '/chemical_equations.jpeg'
+image: '../chemical_equations.jpeg'
 transition: fade-out
 ---
 
@@ -25,7 +25,7 @@ transition: fade-out
 
 ---
 layout: image-right
-image: '/chemical_equations_2.png'
+image: 'chemical_equations_2.png'
 transition: fade-out
 ---
 
