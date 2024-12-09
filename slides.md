@@ -8,6 +8,8 @@ title: Chemical Equations
 Welcome to our presentation on chemical reactions and equations. In this session, we will explore the fundamental concept of chemical reactions, how they are represented by chemical equations, and the diverse types of reactions that occur. Prepare to dive into the fascinating world of chemistry, where you'll learn to decode the language of chemical transformations!
 
 ---
+layout: image-right
+image: '/chemical_equations.jpeg'
 transition: fade-out
 ---
 
@@ -22,6 +24,8 @@ transition: fade-out
 - Conclusion and Fun Facts
 
 ---
+layout: image-right
+image: '/chemical_equations_2.png'
 transition: fade-out
 ---
 
@@ -32,6 +36,8 @@ transition: fade-out
 - Explore the different types of chemical reactions.
 - Learn to balance chemical equations using various methods.
 - Apply knowledge through examples and practice questions.
+
+::right::
 
 ```mermaid
 
@@ -105,6 +111,22 @@ $5\text{H}_2\text{C}_6\text{H}_6\text{O}_7(aq) + 2\text{KMnO}_4(aq) + 3\text{H}_
 transition: fade-out
 ---
 
+# Introduction to Chemical Equations
+
+- **Definition**: Chemical equations are symbolic representations of chemical reactions.
+- **Components**:
+  - Reactants: Substances that undergo change.
+  - Products: New substances formed.
+
+**Example**: 
+
+- Word Equation: Magnesium + Oxygen → Magnesium oxide
+- Chemical Equation: $2 \text{Mg} + \text{O}_2 \rightarrow 2 \text{MgO}$
+
+---
+transition: fade-out
+---
+
 # Visual Understanding of Chemical Reactions
 
 ![Chemical Equations and Reactions](https://cdn1.byjus.com/wp-content/uploads/2016/01/Chemical-Equations-700x257.png)
@@ -130,22 +152,6 @@ transition: fade-out
 flowchart LR
     A[N<sub>2</sub> + 3H<sub>2</sub>] --Catalyst: Fe/K<sub>2</sub>O--> B{450°C, 200 atm} --> C[2NH<sub>3</sub>]
 ```
-
----
-transition: fade-out
----
-
-# Introduction to Chemical Equations
-
-- **Definition**: Chemical equations are symbolic representations of chemical reactions.
-- **Components**:
-  - Reactants: Substances that undergo change.
-  - Products: New substances formed.
-
-**Example**: 
-
-- Word Equation: Magnesium + Oxygen → Magnesium oxide
-- Chemical Equation: $2 \text{Mg} + \text{O}_2 \rightarrow 2 \text{MgO}$
 
 ---
 transition: fade-out
@@ -213,6 +219,7 @@ flowchart LR
 ```
 
 ---
+layout: center
 transition: fade-out
 ---
 
@@ -237,8 +244,8 @@ transition: fade-out
 
 ---
 transition: fade-out
+layout: center
 ---
-
 
 # Quick Revision
 
@@ -247,17 +254,22 @@ transition: fade-out
 </div>
 
 ---
+layout: fact
 transition: fade-out
 ---
 
-# Conclusion and Fun Facts
+# Fun Fact
 
-- **Conclusion**: Understanding chemical equations is crucial in predicting the products of reactions and ensuring mass conservation.
+<v-clicks>
 
-- **Fun Fact**: The reactions in your stomach including digestion are similar to a mini laboratory working tirelessly inside.
+The reactions in your stomach including digestion are similar to a mini laboratory working tirelessly inside.
+
+</v-clicks>
 
 ---
 transition: fade-out
+layout: image-right
+image: '/thinking.jpeg'
 ---
 
 # Questions to Accelerate Thinking
@@ -268,6 +280,7 @@ transition: fade-out
 
 ---
 transition: fade-out
+layout: default
 ---
 
 # References and Resources
