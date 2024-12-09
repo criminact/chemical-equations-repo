@@ -26,7 +26,7 @@ transition: fade-out
 
 ---
 layout: image-right
-image: 'https://lh3.googleusercontent.com/gg/AJxt1KNWxawN5mx47F0BgBf2vHpaXd-A7PUHljKBk5WrIVuuqYHsGswlTouMwMsJ3H9u_ujiL4dU0dIR5fJHcAqyzw4eMk9EOrpKY36RfZ_Q08nGsvmwlxuywOlQzpDVBaxWpG9K_u4-zx3Wnzywm8BADkNrSNaK3O-XQvo1ymxZZGGJ-qKkr0qe'
+image: 'https://r2.fluxaiimagegenerator.com/images/2024/12/09/c35219bf-380c-4b2d-87ee-9cf211eeba34.png'
 transition: fade-out
 ---
 
