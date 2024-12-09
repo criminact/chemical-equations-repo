@@ -1,7 +1,7 @@
 ---
 theme: seriph
 title: Chemical Equations
-background: 'https://lh3.googleusercontent.com/gg/AJxt1KMwUjj4K3e_bMV9YHMZ2nT3zHboRSCkFGYOvFqr8nG5SC8HsFO-u-ey4s9nrALnepDDDhA2-9zhRJ_b8C9-jBcokFrXSNWg-xNF93gkkIizl9S7uNmyj-jAJu008Cs-H5D69vXz5aap9Rqpbs3H9DSkyDZ-V5ojYKzR1xeCCQoiGG77yuol'
+background: 'https://r2.fluxaiimagegenerator.com/images/2024/12/09/3adc56ab-d979-468f-a459-e50ed657b3f7.png'
 ---
 
 # Introduction to Chemical Equations
