@@ -26,7 +26,7 @@ transition: fade-out
 
 ---
 layout: image-right
-image: 'chemical_equations_2.png'
+image: 'https://lh3.googleusercontent.com/gg/AJxt1KNWxawN5mx47F0BgBf2vHpaXd-A7PUHljKBk5WrIVuuqYHsGswlTouMwMsJ3H9u_ujiL4dU0dIR5fJHcAqyzw4eMk9EOrpKY36RfZ_Q08nGsvmwlxuywOlQzpDVBaxWpG9K_u4-zx3Wnzywm8BADkNrSNaK3O-XQvo1ymxZZGGJ-qKkr0qe'
 transition: fade-out
 ---
 
