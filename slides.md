@@ -8,7 +8,7 @@ title: Chemical Equations
 Welcome to our presentation on chemical reactions and equations. In this session, we will explore the fundamental concept of chemical reactions, how they are represented by chemical equations, and the diverse types of reactions that occur. Prepare to dive into the fascinating world of chemistry, where you'll learn to decode the language of chemical transformations!
 
 ---
-transition: slide-right
+transition: fade-out
 ---
 
 # Table of Contents
@@ -22,7 +22,7 @@ transition: slide-right
 - Conclusion and Fun Facts
 
 ---
-transition: slide-up
+transition: fade-out
 ---
 
 # Learning Objectives
@@ -33,8 +33,57 @@ transition: slide-up
 - Learn to balance chemical equations using various methods.
 - Apply knowledge through examples and practice questions.
 
+```mermaid
+
+classDiagram
+    class LearningObjectives {
+        - Understanding Chemical Reactions
+        - Introduction to Chemical Equations
+        - Types of Chemical Reactions
+        - Balancing Chemical Equations
+        - Application and Practice
+    }
+
+    class UnderstandingChemicalReactions {
+        - Definition of Chemical Reactions
+        - Types of Chemical Changes
+    }
+
+    class IntroductionToChemicalEquations {
+        - Definition of Chemical Equations
+        - Components of Chemical Equations
+        - Reactants and Products
+    }
+
+    class TypesOfChemicalReactions {
+        - Combination Reactions
+        - Decomposition Reactions
+        - Single Displacement Reactions
+        - Double Displacement Reactions
+        - Combustion Reactions
+    }
+
+    class BalancingChemicalEquations {
+        - Law of Conservation of Mass
+        - Steps to Balance Equations
+        - Practice Problems
+    }
+
+    class ApplicationAndPractice {
+        - Real-life Applications
+        - Practice Problems
+    }
+
+    LearningObjectives "1" -- "1" UnderstandingChemicalReactions
+    LearningObjectives "1" -- "1" IntroductionToChemicalEquations
+    LearningObjectives "1" -- "1" TypesOfChemicalReactions
+    LearningObjectives "1" -- "1" BalancingChemicalEquations
+    LearningObjectives "1" -- "1" ApplicationAndPractice
+
+```
+
 ---
-transition: slide-left
+transition: fade-out
 ---
 
 # Understanding Chemical Reactions
@@ -45,7 +94,12 @@ transition: slide-left
 **Examples**:
 
 - Combustion of candle wax: Solid to liquid and gas.
+
+$\text{C}_{25}\text{H}_{52}(s) + 38\text{O}_2(g) \rightarrow 25\text{CO}_2(g) + 26\text{H}_2\text{O}(g)$
+
 - Citric acid and potassium permanganate: Purple to colorless.
+
+$5\text{H}_2\text{C}_6\text{H}_6\text{O}_7(aq) + 2\text{KMnO}_4(aq) + 3\text{H}_2\text{SO}_4(aq) \rightarrow 10\text{CO}_2(g) + 2\text{MnSO}_4(aq) + \text{K}_2\text{SO}_4(aq) + 14\text{H}_2\text{O}(l)$
 
 ---
 transition: fade-out
@@ -54,10 +108,31 @@ transition: fade-out
 # Visual Understanding of Chemical Reactions
 
 ![Chemical Equations and Reactions](https://cdn1.byjus.com/wp-content/uploads/2016/01/Chemical-Equations-700x257.png)
-*[Visual representation showcasing basic chemical reactions and equations.](https://cdn1.byjus.com/wp-content/uploads/2016/01/Chemical-Equations-700x257.png)*
+*[Chemical reactions and equations.](https://cdn1.byjus.com/wp-content/uploads/2016/01/Chemical-Equations-700x257.png)*
+
+
+```mermaid
+flowchart LR
+    A[Reactants: 2H<sub>2</sub> + O<sub>2</sub>] --> B[Products: 2H<sub>2</sub>O]
+```
 
 ---
-transition: slide-right
+transition: fade-out
+---
+
+# Example: Chemical Equation for Ammonia Synthesis
+
+![Ammonia Synthesis](https://content.instructables.com/F6U/BTZD/IMGLENDK/F6UBTZDIMGLENDK.png?auto=webp&frame=1&width=320&md=MjAxNi0wMy0zMSAxMTo0OTowMC4w)
+*[Chemical Equation for Ammonia Synthesis](https://content.instructables.com/F6U/BTZD/IMGLENDK/F6UBTZDIMGLENDK.png?auto=webp&frame=1&width=320&md=MjAxNi0wMy0zMSAxMTo0OTowMC4w)*
+
+
+```mermaid
+flowchart LR
+    A[N<sub>2</sub> + 3H<sub>2</sub>] --Catalyst: Fe/K<sub>2</sub>O--> B{450°C, 200 atm} --> C[2NH<sub>3</sub>]
+```
+
+---
+transition: fade-out
 ---
 
 # Introduction to Chemical Equations
@@ -73,7 +148,7 @@ transition: slide-right
 - Chemical Equation: $2 \text{Mg} + \text{O}_2 \rightarrow 2 \text{MgO}$
 
 ---
-transition: slide-left
+transition: fade-out
 ---
 
 # Writing and Balancing Chemical Equations
@@ -90,7 +165,7 @@ transition: slide-left
   - Check balance and simplification.
 
 ---
-transition: fade-in
+transition: fade-out
 ---
 
 # Demonstration of Balancing Chemical Equations
@@ -99,7 +174,7 @@ transition: fade-in
 *[Balancing Equations](https://i.ytimg.com/vi/UGf60kq_ZDI/hqdefault.jpg)*
 
 ---
-transition: slide-right
+transition: fade-out
 ---
 
 # Types of Chemical Reactions
@@ -119,7 +194,7 @@ transition: slide-right
    - Involves electron transfer, oxidation, and reduction.
 
 ---
-transition: slide-left
+transition: fade-out
 ---
 
 # Balancing Chemical Equations
@@ -132,9 +207,25 @@ transition: slide-left
   
 - Balanced: $3\text{Fe} + 4\text{H}_2\text{O} \rightarrow \text{Fe}_3\text{O}_4 + 4\text{H}_2$
 
+```mermaid
+flowchart LR
+    A[3Fe + 4H<sub>2</sub>O] --> B[Fe<sub>3</sub>O<sub>4</sub> + 4H<sub>2</sub>]
+```
+
 ---
-transition: slide-right
+transition: fade-out
 ---
+
+# How to Balance Chemical Equations
+
+<div class="w-full">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zmdxMlb88Fs?si=e5o9nKUQ4MnmCDdy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+---
+transition: fade-out
+---
+
 
 # Application and Practice
 
@@ -145,7 +236,18 @@ transition: slide-right
   - Reaction Analysis: Identify reaction type and predict products.
 
 ---
-transition: slide-down
+transition: fade-out
+---
+
+
+# Quick Revision
+
+<div class="w-full">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/TfXOwxXprtE?si=LQzboxfNTrAxcXIp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+---
+transition: fade-out
 ---
 
 # Conclusion and Fun Facts
@@ -154,10 +256,8 @@ transition: slide-down
 
 - **Fun Fact**: The reactions in your stomach including digestion are similar to a mini laboratory working tirelessly inside.
 
-Check out this engaging [Video on Chemical Equations](https://www.youtube.com/watch?v=4Ni6wqh6Uxs) for a deeper understanding.
-
 ---
-transition: fade-in
+transition: fade-out
 ---
 
 # Questions to Accelerate Thinking
@@ -167,7 +267,7 @@ transition: fade-in
 - Try balancing a challenging equation: $C_4H_{10} + O_2 \rightarrow CO_2 + H_2O$.
 
 ---
-transition: slide-up
+transition: fade-out
 ---
 
 # References and Resources
